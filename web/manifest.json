@@ -1,0 +1,35 @@
+{
+    "name": "mschool",
+    "short_name": "mschool",
+    "start_url": "index.html?standalone=true",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "black",
+    "description": "mschool",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/ms-icon-150x150w.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/ms-icon-310x310w.png",
+            "sizes": "310x310",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/ms-icon-150x150w.png",
+            "sizes": "150x150",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/ms-icon-310x310w.png",
+            "sizes": "310x310",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

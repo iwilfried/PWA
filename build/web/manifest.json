@@ -1,0 +1,35 @@
+{
+    "name": "mschool_ecommerce",
+    "short_name": "mschool_ecommerce",
+    "display": "standalone",
+    "start_url": "/?standalone=true",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "description": "A new Flutter project.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "smallview.png",
+            "sizes": "84x84",
+            "type": "image/png"
+        },
+        {
+            "src": "view.png",
+            "sizes": "162x162",
+            "type": "image/png"
+        },
+        {
+            "src": "smallview.png",
+            "sizes": "84x84",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "view.png",
+            "sizes": "162x162",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
